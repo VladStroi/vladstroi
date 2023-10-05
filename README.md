@@ -1,9 +1,9 @@
-<h1 align="center">💥Open to work💥</h1>
+<h1 align="center">:boom: Open to work :boom:</h1>
 
 ## <a href="https://www.linkedin.com/in/vladyslav-stroi/" target="_blank">I`m junior React Front-end Developer</a>
 
 
-## 💻 Tech stack
+## :computer: Tech stack
 
 ![HTML5](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3)
@@ -14,4 +14,4 @@
 ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
 
-## 👇 Projects
+## :point_down: Projects
